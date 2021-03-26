@@ -17,3 +17,6 @@ prawcore~=1.5.0
 tqdm~=4.56.0
 pretty-errors~=1.2.19
 pushshift.py~=0.1.2
+jupyterlab
+matplotlib
+pandas
