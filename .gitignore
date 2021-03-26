@@ -2,5 +2,6 @@
 .idea
 .ipynb_checkpoints
 __pycache__
+src/
 commands.txt
 key.txt
