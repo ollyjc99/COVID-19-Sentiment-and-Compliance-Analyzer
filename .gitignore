@@ -6,3 +6,4 @@ src/
 commands.txt
 key.txt
 .DS_Store
+*.html
