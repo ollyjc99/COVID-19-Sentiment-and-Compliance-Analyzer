@@ -5,3 +5,4 @@ __pycache__
 src/
 commands.txt
 key.txt
+.DS_Store
