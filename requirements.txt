@@ -20,3 +20,5 @@ pushshift.py~=0.1.2
 jupyterlab
 matplotlib
 pandas
+gensim
+python-Levenshtein
