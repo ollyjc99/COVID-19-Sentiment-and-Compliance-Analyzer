@@ -22,3 +22,4 @@ matplotlib
 pandas
 gensim
 python-Levenshtein
+wordcloud
